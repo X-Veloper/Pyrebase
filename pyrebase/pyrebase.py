@@ -20,7 +20,7 @@ from requests.packages.urllib3.contrib.appengine import is_appengine_sandbox
 from requests_toolbelt.adapters import appengine
 
 import python_jwt as jwt
-// from Crypto.PublicKey import RSA # Error in lambda, this git is only for deploy package to aws lambda
+# from Crypto.PublicKey import RSA # Error in lambda, this git is only for deploy package to aws lambda
 import datetime
 
 
